@@ -35,7 +35,7 @@ function App() {
       <section>
         <h2 style={{ color: '#2b6cb0' }}>Technical Skills</h2>
         <ul style={{ color: '#2d3748' }}>
-          <li><strong>Languages:</strong> HTML5, CSS3, JavaScript, Python</li>
+          <li><strong>Languages:</strong> HTML5, CSS3, JavaScript,Java, Python</li>
           <li><strong>Frameworks/Libraries:</strong> React.js, Node.js, Express.js</li>
           <li><strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Postman</li>
           <li><strong>Databases:</strong> MongoDB, MySQL</li>
